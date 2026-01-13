@@ -1,7 +1,10 @@
 
 # 💫 About Me:
-I'm currently working on project that uses java and related technologies<br>I'm looking to collaborate on developing agentic AI<br>I'm currently learning software architecture skills and Artifical Intelligence<br>Ask me about any of the above mentioned topic<br>Real test of code happens in production
-
+🔭 I'm currently working on project that uses java and related technologies<br>
+👯 I'm looking to collaborate on developing agentic AI<br>
+🌱 I'm currently learning software architecture skills and Artifical Intelligence<br>
+💬 Ask me about any of the above mentioned topic<br>
+⚡ Real test of code happens in production
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zia10) 
